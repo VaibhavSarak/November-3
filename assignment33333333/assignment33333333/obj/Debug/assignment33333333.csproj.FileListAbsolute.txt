@@ -1,0 +1,8 @@
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\obj\Debug\assignment33333333.csproj.AssemblyReference.cache
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\obj\Debug\assignment33333333.csproj.SuggestedBindingRedirects.cache
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\obj\Debug\assignment33333333.csproj.CoreCompileInputs.cache
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\bin\Debug\assignment33333333.exe.config
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\bin\Debug\assignment33333333.exe
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\bin\Debug\assignment33333333.pdb
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\obj\Debug\assignment33333333.exe
+C:\Users\AIMS comp 1\OneDrive\Desktop\vaibhav\controller's\assignment33333333\assignment33333333\obj\Debug\assignment33333333.pdb
