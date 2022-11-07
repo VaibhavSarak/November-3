@@ -15,8 +15,19 @@ namespace assignment_222222222222222
     {
         static void Main()
         {
-           
-           if(true)
+            Console.WriteLine("1) Add New SSp");
+            Console.WriteLine("2) Add New Plan");
+            Console.WriteLine("3) Get all SSP by City");
+            Console.WriteLine("4) Get all Client by City");
+            Console.WriteLine("5) Get SSp by Channel Capacity");
+            Console.WriteLine("6) Get All SSP");
+            Console.WriteLine("7) Get All Client");
+            Console.WriteLine("....................................");
+            Console.WriteLine("....................................");
+            Console.WriteLine("Enter the Number");
+            Console.WriteLine("Enter the Number");
+
+            if (true)
             {
             LoopExpression:
                 Menu();
@@ -62,8 +73,8 @@ namespace assignment_222222222222222
         public  static void Menu()
         {
 
-           
-            
+
+
             Console.WriteLine("1) Add New SSp");
             Console.WriteLine("2) Add New Plan");
             Console.WriteLine("3) Get all SSP by City");
@@ -74,8 +85,8 @@ namespace assignment_222222222222222
             Console.WriteLine("....................................");
             Console.WriteLine("....................................");
             Console.WriteLine("Enter the Number");
-           
-           
+            Console.WriteLine("Enter the Number");
+
         }
         public static void ADDSSP()
         {
